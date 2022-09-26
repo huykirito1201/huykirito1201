@@ -2,8 +2,7 @@
 <h3 align="center">Just a normal person</h3>
 
 - 🌱 I’m currently learning **HTML, CSS, JS, React**
-
-<h3 align="left">Connect with me:</h3>
+- 
 <p align="left">
 </p>
 
